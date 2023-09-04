@@ -6,11 +6,11 @@ I love India because my family ,friends and everyone whom I love lives there . M
 ----
 ## Best Tourist spots i love visiting.
 1.Favourite Spot
-    1. Bejjanki
-    2. Chirala
-    3. Hyderabad
-    4. Karimnagar
-    5. Bali
+    1.Bejjanki
+    2.Chirala
+    3.Hyderabad
+    4.Karimnagar
+    5.Bali
 
 * Food at Vacation Spot
     * Chicken Biryani
