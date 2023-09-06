@@ -86,8 +86,8 @@ I love India because my family ,friends and everyone whom I love lives there . M
         });
 
     }
-})(jQuery);
+    })(jQuery);
 
-```
+`
 
 [check the code](https://css-tricks.com/snippets/jquery/draggable-without-jquery-ui/)
