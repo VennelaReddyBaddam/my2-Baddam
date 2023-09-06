@@ -40,6 +40,7 @@ I love India because my family ,friends and everyone whom I love lives there . M
     ----
     # Code fencing
     **Why do my CSS media queries not work on all mobile devices?**
+    
     In my external stylesheet I have the following media query codeblock at the very end, which changes styles of previously defined classes
 
     [click on the link](https://stackoverflow.com/questions/77048496/why-do-my-css-media-queries-not-work-on-all-mobile-devices)
