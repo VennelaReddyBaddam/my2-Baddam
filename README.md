@@ -33,9 +33,9 @@ I love India because my family ,friends and everyone whom I love lives there . M
 
     ----
     # Pithy quotes.
-    1."No great discovery was ever made without a bold guess." ― *Isaac Newton*
+> 1."No great discovery was ever made without a bold guess." ― *Isaac Newton*
 
-    2."If I could explain it to the average person, I wouldn’t have been worth the Nobel Prize." - *Richard Feynman*
+> n2."If I could explain it to the average person, I wouldn’t have been worth the Nobel Prize." - *Richard Feynman*
 
     ----
     # Code fencing
