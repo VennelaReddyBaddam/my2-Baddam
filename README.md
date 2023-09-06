@@ -30,3 +30,9 @@ I love India because my family ,friends and everyone whom I love lives there . M
     |2.running        |fitness              |2hrs       |
     |3.swimming       |fitness              |1hr        |
     |4.cycling        |Strength             |1hr        |
+
+    ----
+    # Pithy quotes.
+    1."No great discovery was ever made without a bold guess." ― *Isaac Newton*
+    
+    2."If I could explain it to the average person, I wouldn’t have been worth the Nobel Prize." - *Richard Feynman*
