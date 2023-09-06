@@ -17,3 +17,5 @@ I love India because my family ,friends and everyone whom I love lives there . M
     * Paneer Biryani
     * KFC
     * Taco Bell 
+
+    [click on the link for more info](MyStats.md)
