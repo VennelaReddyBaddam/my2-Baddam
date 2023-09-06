@@ -45,7 +45,7 @@ I love India because my family ,friends and everyone whom I love lives there . M
 
     [click on the link](https://stackoverflow.com/questions/77048496/why-do-my-css-media-queries-not-work-on-all-mobile-devices)
 
-    ```
+```
     (function($) {
     $.fn.drags = function(opt) {
 
@@ -90,5 +90,4 @@ I love India because my family ,friends and everyone whom I love lives there . M
 
 ```
 
-
-[Click on the link](https://css-tricks.com/snippets/jquery/draggable-without-jquery-ui/)
+[Source for the above snippet](https://css-tricks.com/snippets/jquery/draggable-without-jquery-ui/)
