@@ -19,3 +19,14 @@ I love India because my family ,friends and everyone whom I love lives there . M
     * Taco Bell 
 
     [click on the link for more info](MyStats.md)
+
+    ----
+    # Table for Recommending 4 sports
+    I am Recommending these 4 sports because of its importance towards healthy lifestyle.
+
+    |Name of the sport| reason for recommend|Total hours|
+    |-----------------|---------------------|-----------|
+    |1.cricket        |concentration        |2hrs       |
+    |2.running        |fitness              |2hrs       |
+    |3.swimming       |fitness              |1hr        |
+    |4.cycling        |Strength             |1hr        |
